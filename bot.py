@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 ╔══════════════════════════════════════════════════════════════════════════╗
-║   QURESHI x OTP  ·  PREMIUM TELEGRAM ACCOUNT-SELLING STORE  (ULTRA)      ║
+║   SHOWN x OTP  ·  PREMIUM TELEGRAM ACCOUNT-SELLING STORE  (ULTRA)      ║
 ║   Rich formatting · Inline buttons · Premium emoji · Force-join          ║
 ║   Telethon account login · UPI wallet (QR 15-min) · OTP relay            ║
 ║   Auto login-detection · Instant delivery · Full admin panel             ║
